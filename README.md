@@ -8,7 +8,7 @@
 ## About
 
 - Computer Engineering student at Bahcesehir University with an Erasmus+ exchange at EPITA, Paris.
-- Currently a Security Identity Intern at Turkcell, building Python-based IDM automation and RPA solutions.
+- Currently a Software Engineering Intern in the Architecture Team at Halkbank, contributing to iOS application development with Swift.
 - Interested in machine learning, optimization, and AI-driven systems.
 
 ## Research
